@@ -1,0 +1,26 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    {
+      "type": "item",
+      "id": "minecraft:diamond",
+      "amount": 3
+    }
+  ],
+  "craft_history": [
+    "minecraft:stone_pickaxe",
+    "minecraft:stick",
+    "minecraft:bowl",
+    "minecraft:crafting_table",
+    "minecraft:wooden_pickaxe",
+    "minecraft:wooden_axe",
+    "minecraft:oak_planks"
+  ],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

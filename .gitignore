@@ -1,0 +1,8 @@
+logs/
+saves/
+XaeroWorldMap/
+crash-reports/
+*-natives/
+XaeroWaypoints*/
+.connector/
+PCL/

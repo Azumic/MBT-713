@@ -1,0 +1,17 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "touhou_little_maid:memorizable_gensokyo": {
+      "viewedEntries": [
+        "touhou_little_maid:maid/chat_bubbles",
+        "touhou_little_maid:maid/maid_skin",
+        "touhou_little_maid:maid/maid_task",
+        "touhou_little_maid:maid/maid_home",
+        "touhou_little_maid:other/chair_show"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}
