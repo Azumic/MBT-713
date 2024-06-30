@@ -54,6 +54,9 @@
     "maid": true,
     "shrine_lamp": true
   },
+  "supplementaries": {
+    "hat_stand": true
+  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
@@ -61,5 +64,16 @@
     "coordinates": false,
     "registry_name": "OFF",
     "mod_name": true
+  },
+  "waystones": {
+    "waystone": true
+  },
+  "corpse": {
+    "corpse": true
+  },
+  "storagedrawers": {
+    "display.stacklimit": true,
+    "display.content": true,
+    "display.status": true
   }
 }

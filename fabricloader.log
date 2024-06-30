@@ -1,0 +1,4 @@
+[17:55:23] [WARN] [FabricLoader/Resolution]: Mod resolution failed
+[17:55:23] [INFO] [FabricLoader/Resolution]: Immediate reason: [HARD_DEP_NO_CANDIDATE aquamirae 6 {depends obscure_api @ [>=16]}, ROOT_FORCELOAD_SINGLE aquamirae 6]
+[17:55:23] [INFO] [FabricLoader/Resolution]: Reason: [HARD_DEP aquamirae 6 {depends obscure_api @ [>=16]}, HARD_DEP fog_looks_good_now 2.2.0+1.20.1 {depends mru @ [*]}]
+[17:55:23] [INFO] [FabricLoader/Resolution]: Fix: add [add:obscure_api 16 ([[16,∞)]), add:mru 1 ([(-∞,∞)])], remove [], replace []

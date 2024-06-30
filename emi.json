@@ -1,6 +1,54 @@
 {
-  "favorites": [],
+  "favorites": [
+    {
+      "stack": "item:touhou_little_maid:smart_slab_has_maid{MaidInfo:{AbsorptionAmount:0.0f,Age:0,Air:300s,ArmorDropChances:[0.085f,0.085f,0.085f,0.085f],ArmorItems:[{},{},{},{}],Attributes:[{Base:0.08d,Name:\"forge:entity_gravity\"},{Base:0.0d,Name:\"reach-entity-attributes:reach\"},{Base:1.0d,Name:\"forge:swim_speed\"},{Base:0.0d,Name:\"forge:step_height_addition\"},{Base:0.699999988079071d,Name:\"minecraft:generic.movement_speed\"}],Brain:{memories:{}},CanPickUpLoot:0b,CanUpdate:1b,DeathTime:0s,FallDistance:0.0f,FallFlying:0b,FavorabilityManagerCounter:{},Fire:-1s,ForcedAge:0,ForgeCaps:{\"curios:inventory\":{Curios:[]}},ForgeData:{},HandDropChances:[0.085f,0.085f],HandItems:[{Count:64b,id:\"minecraft:lantern\"},{}],Health:20.0f,HurtByTimestamp:0,HurtTime:0s,InLove:0,Invulnerable:0b,LeftHanded:0b,MaidBackpackData:{},MaidBackpackType:\"touhou_little_maid:empty\",MaidBaubleInventory:{Items:[],Size:9},MaidExperience:0,MaidFavorability:0,MaidGameSkillData:{},MaidHunger:0,MaidInventory:{Items:[{Count:4b,Slot:0,id:\"minecraft:diamond\"}],Size:36},MaidIsHome:0b,MaidIsPickup:1b,MaidIsRideable:1b,MaidScheduleMode:\"DAY\",MaidSchedulePos:{Configured:0b,Dimension:\"minecraft:overworld\",Idle:{X:0,Y:0,Z:0},Sleep:{X:0,Y:0,Z:0},Work:{X:0,Y:0,Z:0}},MaidScriptBook:[],MaidTask:\"touhou_little_maid:idle\",ModelId:\"touhou_little_maid:daiyousei\",Motion:[0.039274485481527d,-0.0784000015258789d,0.006177854557409088d],OnGround:1b,Owner:[I;-2116886096,478759148,-1922524937,-1722109961],PersistenceRequired:0b,PortalCooldown:0,Pos:[279.89795714880523d,78.0d,238.62307583041908d],Rotation:[260.58463f,0.0f],Sitting:0b,SoundPackId:\"littlemaid_peco\",StruckByLightning:0b,UUID:[I;-338396183,-742899443,-1591080177,687024537]}}"
+    }
+  ],
   "lookup_history": [
+    "item:natures_spirit:chert_iron_ore",
+    "item:storagedrawers:warped_trim",
+    {
+      "type": "jemi",
+      "uid": "effect:minecraft:nausea"
+    },
+    {
+      "type": "jemi",
+      "uid": "effect:minecraft:jump_boost"
+    },
+    {
+      "type": "jemi",
+      "uid": "effect:minecraft:instant_damage"
+    },
+    {
+      "type": "jemi",
+      "uid": "effect:minecraft:instant_health"
+    },
+    "item:hexerei:mixing_cauldron",
+    "item:oreganized:electrum_ingot",
+    "#item:c:ores",
+    "item:minecraft:deepslate_emerald_ore",
+    "item:alexscaves:coprolith_coal_ore",
+    "item:minecraft:nether_quartz_ore",
+    "item:minecraft:diamond_ore",
+    "item:minecraft:deepslate_lapis_ore",
+    "item:minecraft:lapis_ore",
+    "item:minecraft:emerald_ore",
+    "item:oreganized:silver_ore",
+    "item:create:deepslate_zinc_ore",
+    "item:alexscaves:galena_iron_ore",
+    "item:alexscaves:guanostone_redstone_ore",
+    "item:minecraft:ancient_debris",
+    "item:minecraft:deepslate_gold_ore",
+    "item:minecraft:gold_ore",
+    "item:oreganized:deepslate_lead_ore",
+    "item:oreganized:lead_ore",
+    "item:minecraft:deepslate_copper_ore",
+    "item:minecraft:copper_ore",
+    "item:minecraft:deepslate_iron_ore",
+    "item:minecraft:iron_ore",
+    "item:minecraft:coal_ore",
+    "item:simplytools:diamond_hammer{Damage:0}",
+    "item:alexscaves:radrock_uranium_ore",
     {
       "type": "item",
       "id": "minecraft:diamond",
@@ -8,7 +56,6 @@
     }
   ],
   "craft_history": [
-    "minecraft:stone_pickaxe",
     "minecraft:stick",
     "minecraft:bowl",
     "minecraft:crafting_table",
